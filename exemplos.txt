@@ -1,1 +1,6 @@
 Arquivo tipo texto (.txt) para anotações.
+
+comandos git básicos:
+	- git add .			->	inclui todos os arquivos (.) na árvore git.
+	- git commit -m ""	-> 	registra as alterações que serão feitas nos arquivos adicionados.
+	- git push -u origin master		->	envia as alterações para a branch principal.
